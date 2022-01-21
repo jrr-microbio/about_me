@@ -1,5 +1,5 @@
 - Hi, I’m @jrr-microbio
-- I’m currently a PhD Candidate working in microbial and viral ecology.
+- I’m currently a PhD Candidate in Kelly Wrighton's laboratory @ColoradoStateUniversity working in microbial and viral ecology.
 - 📫 How to reach me: josue.a.rodriguez.ramos@gmail.com
 
 <!---
