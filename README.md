@@ -5,7 +5,7 @@
 I am a skilled microbiome scientist and bioinformatician with 10 years of research experience in microbiology, computational biology, viral ecology, microbial metabolism, and biogeochemistry. Expert in ‘omics analysis and integration of metagenomics, metatranscriptomics, and metaproteomics data. Highly collaborative and interdisciplinary researcher fluent in spoken and written Spanish and English languages.
 
 - You can check out the most up to date copy of my resume here: 
-- https://drive.google.com/file/d/1MzDem0DRricqFNXmQL6j3Y5j7TrRC3LN/view?usp=sharing
+- https://docs.google.com/viewer?url=$https://drive.google.com/file/d/1MzDem0DRricqFNXmQL6j3Y5j7TrRC3LN/view?usp=sharing
 <!---
 jrr-microbio/jrr-microbio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
