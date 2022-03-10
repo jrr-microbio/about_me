@@ -1,5 +1,5 @@
 - Hi, I’m @jrr-microbio
-- I’m currently a PhD Candidate in Kelly Wrighton's laboratory @ColoradoStateUniversity working in microbial and viral ecology.
+- I’m currently a PhD Candidate in Kelly Wrighton's laboratory @ColoradoStateUniversity working in microbial and viral ecology. You will find most of my work either here or over on the Wrighton Lab Github account - https://github.com/WrightonLabCSU
 - 📫 How to reach me: josue.a.rodriguez.ramos@gmail.com
 
 I am a skilled microbiome scientist and bioinformatician with 10 years of research experience in microbiology, computational biology, viral ecology, microbial metabolism, and biogeochemistry. Expert in ‘omics analysis and integration of metagenomics, metatranscriptomics, and metaproteomics data. Highly collaborative and interdisciplinary researcher fluent in spoken and written Spanish and English languages.
